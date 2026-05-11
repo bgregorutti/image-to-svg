@@ -18,7 +18,7 @@ You can install the package directly using `uv`:
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/bgregorutti/image-to-svg
 cd image-to-svg
 
 # Install the package and its dependencies
